@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+.header-title {
+  margin-left: 5px;
+}
+
+.page-main {
+  margin-left: 5px;
+}
+
+.doors-list {
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 40px;
+  padding-right: 10px;
+}
+
+.door {
+  width: 100px;
+}
+
+.container {
+  display: flex;
+  margin: 5px;
+  width: 550px;
+}
+
+.note-1 {
+  width: 150px;
+}
+
+.note-2 {
+  width: 200px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 25px;
+}
+
+.note-3 {
+  width: 100px;
+  margin-top: auto;
+  margin-left: auto;
+}
